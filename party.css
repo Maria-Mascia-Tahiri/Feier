@@ -26,12 +26,12 @@ body {
 .hny {
   font-family:'Pacifico';
   font-size: 1.5em;
-  color: #bee412;
-  padding: 10em;
+  color: hsl(71, 85%, 48%);
+  padding: 9em;
   
   white-space:nowrap;
 
-  animation: scroll 8s linear infinite;
+  animation: scroll 15s linear infinite;
 }
 
 @-webkit-keyframes scroll {
